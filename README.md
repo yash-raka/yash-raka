@@ -35,22 +35,33 @@
 
 ---
 
-# 🌐 Connect with Me:
+# <h2 align="left">🌐 Connect with Me:</h2>
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/yash-raka-472723305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35" />
   </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub -->
   <a href="https://github.com/yash-raka" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="35" height="35" />
   </a>
+  &nbsp;&nbsp;
+
+  <!-- Gmail -->
   <a href="mailto:yashrakayr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="35" height="35" />
   </a>
-  <a href= "https://codolio.com/profile/yashraka" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-%23000000.svg?style=flat&logo=owl&logoColor=white" alt="Codolio"/>
+  &nbsp;&nbsp;
+
+  <!-- Codolio -->
+  <a href="https://codolio.com/profile/yashraka" target="_blank">
+    <img src="https://codolio-pt.vercel.app/codolio_assets/gif-owl-transparent.GIF" alt="Codolio" width="35" height="35" />
   </a>
 </p>
+
 
 ---
 

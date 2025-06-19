@@ -47,7 +47,7 @@
   <a href="mailto:yashrakayr@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://codolio.com/profile/yash_raka" target="_blank">
+  <a href= "https://codolio.com/profile/yashraka" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-%23000000.svg?style=flat&logo=owl&logoColor=white" alt="Codolio"/>
   </a>
 </p>
